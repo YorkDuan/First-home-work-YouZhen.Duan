@@ -45,9 +45,33 @@ Finding and deleting leftover python files with everything
 ![image](https://github.com/YorkDuan/First-home-work-YouZhen.Duan/assets/156828673/70c667c2-17b6-4b3a-8864-23dcb0706fb6)
 ![image](https://github.com/YorkDuan/First-home-work-YouZhen.Duan/assets/156828673/9d93e251-fe38-495e-99ef-e3c7e89f548b)
 
-3.Installing django using the pip tool.
+3.Installing Django using the pip tool.
 
 3.1.Check if pip version is available.
+
+(1)Type "pip -V" in a command prompt window.
+![image](https://github.com/YorkDuan/First-home-work-YouZhen.Duan/assets/156828673/591eba79-3975-45f0-8158-5c519602d19a)
+
+(2)At this point, the pip version is found to be low, so type "pip install --upgrade pip" to upgrade it.
+![image](https://github.com/YorkDuan/First-home-work-YouZhen.Duan/assets/156828673/3acfb0dc-5367-4141-ae5e-598c6262d27e)
+
+Question 1 arises at this point:pip download timeout.
+
+Solution: Use mirror resources to download, mirror resources from China's computer forums.
+
+The relevant code is as follows:
+python -m pip install --upgrade pip -i https://pypi.douban.com/simple
+![image](https://github.com/YorkDuan/First-home-work-YouZhen.Duan/assets/156828673/1c408ca8-4452-4d85-8834-58c607e66f5a)
+
+3.2.Installing the Django environment using the newly installed pip tool.
+
+Enter the installation code "pip install django" in a command prompt window.
+
+
+
+
+
+
 
 
 
