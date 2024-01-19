@@ -55,7 +55,7 @@ Finding and deleting leftover python files with everything
 (2)At this point, the pip version is found to be low, so type "pip install --upgrade pip" to upgrade it.
 ![image](https://github.com/YorkDuan/First-home-work-YouZhen.Duan/assets/156828673/3acfb0dc-5367-4141-ae5e-598c6262d27e)
 
-Question 1 arises at this point:pip download timeout.
+Question 1 arises at this point: pip download timeout.
 
 Solution: Use mirror resources to download, mirror resources from China's computer forums.
 
@@ -63,9 +63,37 @@ The relevant code is as follows:
 python -m pip install --upgrade pip -i https://pypi.douban.com/simple
 ![image](https://github.com/YorkDuan/First-home-work-YouZhen.Duan/assets/156828673/1c408ca8-4452-4d85-8834-58c607e66f5a)
 
+(3)Check pip version again after successful installation.
+![image](https://github.com/YorkDuan/First-home-work-YouZhen.Duan/assets/156828673/9de0c81b-eb1e-4f60-82c5-b4c9c4d2b42d)
+
+New version installed successfully!
+
+
 3.2.Installing the Django environment using the newly installed pip tool.
 
 Enter the installation code "pip install django" in a command prompt window.
+![image](https://github.com/YorkDuan/First-home-work-YouZhen.Duan/assets/156828673/68755704-0c2d-4839-8edc-ce4e0743d8c0)
+
+Question 2 arises at this point: Still Django download timeout.
+
+Solution: Or use the mirror resources to download, the mirror resources from the famous Chinese company Alibaba's Aliyun server.
+
+The relevant code is as follows:
+pip install django -i https://mirrors.aliyun.com/pypi/simple/
+![image](https://github.com/YorkDuan/First-home-work-YouZhen.Duan/assets/156828673/b06905a3-fd80-4a80-adab-5d350bf73833)
+
+3.3.Installation Verification.
+
+Type "pip list" in a command prompt window.
+![image](https://github.com/YorkDuan/First-home-work-YouZhen.Duan/assets/156828673/b63209d1-b030-43bc-95a3-04e7034dc157)
+
+The installation was successful!
+
+At this point, the python environment is configured.
+
+
+
+
 
 
 
