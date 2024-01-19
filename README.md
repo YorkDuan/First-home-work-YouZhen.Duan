@@ -28,7 +28,27 @@ Finding and deleting leftover python files with everything
 (2)Run the installer to complete the installation process.
 ![image](https://github.com/YorkDuan/First-home-work-YouZhen.Duan/assets/156828673/cd74879d-bbc4-40d4-b733-3663ec875a42)
 
-1.3
+1.3IVerify that python was installed successfully in a command prompt window.
+
+（1）Type "python" in a command prompt window.
+![image](https://github.com/YorkDuan/First-home-work-YouZhen.Duan/assets/156828673/886f1dea-e28e-48e7-a299-a805291b7fb8)
+
+2.Installation and configuration of the pycharm environment.
+
+2.1.Go to pycharm official website to download pycharm.
+![image](https://github.com/YorkDuan/First-home-work-YouZhen.Duan/assets/156828673/ce505791-f96a-4a7e-9eb1-e5e8bd167a41)
+
+2.2.New project using python as base interpreter.
+![image](https://github.com/YorkDuan/First-home-work-YouZhen.Duan/assets/156828673/8c92ac63-504c-4af5-9037-59b565d262fe)
+
+2.3.Type "hello world!" and run.
+![image](https://github.com/YorkDuan/First-home-work-YouZhen.Duan/assets/156828673/70c667c2-17b6-4b3a-8864-23dcb0706fb6)
+
+
+
+
+
+
 
 
 
