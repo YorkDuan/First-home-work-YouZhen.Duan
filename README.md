@@ -43,6 +43,14 @@ Finding and deleting leftover python files with everything
 
 2.3.Type "hello world!" and run.
 ![image](https://github.com/YorkDuan/First-home-work-YouZhen.Duan/assets/156828673/70c667c2-17b6-4b3a-8864-23dcb0706fb6)
+![image](https://github.com/YorkDuan/First-home-work-YouZhen.Duan/assets/156828673/9d93e251-fe38-495e-99ef-e3c7e89f548b)
+
+3.Installing django using the pip tool.
+
+3.1.Check if pip version is available.
+
+
+
 
 
 
